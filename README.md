@@ -37,6 +37,7 @@
 | Project | What it is | Stack |
 | --- | --- | --- |
 | **[PDF Invoice Extractor](https://github.com/randomwanderer-cpu/pdf-invoice-extractor)** | A fully **local-LLM** app that turns messy PDF invoices into clean, validated structured JSON — no cloud, no API keys. | `Python` · `Ollama / Llama 3.1` · `Pydantic` · `Streamlit` · `Docker` |
+| **[Chat with your PDFs (RAG)](https://github.com/randomwanderer-cpu/pdf-rag-chat)** | A fully **local RAG** system — ask questions about your PDFs and get answers with **source citations**. Built from scratch, no LangChain. | `Python` · `Ollama` · `ChromaDB` · `Streamlit` · `Docker` |
 | **[AI-Built Power BI Dashboard](https://github.com/randomwanderer-cpu/ai-built-powerbi-dashboard)** | End-to-end Power BI report — a **TMDL star-schema** semantic model + 4-page **PBIR** executive report, built with Fabric authoring tooling. | `Power BI` · `TMDL` · `DAX` · `Semantic Modeling` |
 | **[HEDIS Quality Analytics](https://github.com/randomwanderer-cpu/hedis-quality-analytics)** | Healthcare **quality-measure analytics** (HEDIS / Star Ratings) — SQL + BI over Medicare/CMS data. | `SQL` · `BI` · `Healthcare Analytics` |
 | **[Databricks Multi-Source Ingestion](https://github.com/randomwanderer-cpu/databricks-multi-source-ingestion)** | **Medallion-architecture** ingestion of multiple sources on Databricks with incremental + full-refresh strategies. | `Databricks` · `PySpark` · `Delta Lake` · `Auto Loader` |

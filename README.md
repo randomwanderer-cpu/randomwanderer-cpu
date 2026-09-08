@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=200&section=header&text=Jyothi%20Prasad%20Pechetti&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Data%20Analyst%20%7C%20BI%20%26%20Analytics%20Engineering&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://www.linkedin.com/in/jyothi-pechetti">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=680&lines=Senior+Data+Analyst+%7C+Analytics+Engineer;Nearly+9+years+turning+raw+data+into+decisions;Building+towards+Data+Engineering+%E2%9A%99%EF%B8%8F;SQL+%7C+Python+%7C+Tableau+%7C+Power+BI+%7C+Databricks+%7C+AWS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=680&lines=Senior+Data+Analyst+%7C+Analytics+Engineer;Nearly+10+years+turning+raw+data+into+decisions;Building+towards+Data+Engineering+%E2%9A%99%EF%B8%8F;SQL+%7C+Python+%7C+Tableau+%7C+Power+BI+%7C+Databricks+%7C+AWS" alt="Typing SVG" />
 </a>
 
 </div>
@@ -29,7 +29,7 @@
 | **Cigna Healthcare** · 2022–2026 | Data Analyst / Analytics Engineer | Architected Databricks **Bronze→Silver→Gold** pipelines (PySpark, Delta Lake, Auto Loader); cut a legacy Tableau dashboard from **~6 min → 10 s**; ran a **zero-downtime** MySQL migration with **AWS DMS + CDC** |
 | **McKinsey & Company** (Nityo Infotech) · 2019–2022 | Data Analyst / Tableau Consultant | Power BI semantic modeling (Power Query + DAX) & embedded analytics; **~50%** faster queries; RLS-secured executive dashboards on **Athena + Snowflake** |
 | **New York Life** (SRK Systems) · 2017–2019 | Tableau Consultant | Migrated legacy BI → Tableau with validated cutovers; **~60%** faster dashboards via query + data-model tuning |
-| CTE Global Solutions (India) · Jan 2015– Nov 2015 | Junior Analyst | wrote SQL queries to extract, join, and summarize data for recurring operational and management reports |
+| CTE Global Solutions (India) · Jan 2015– Nov 2015 | Junior Analyst | Wrote SQL queries to extract, join, and summarize data for recurring operational and management reports |
 
 ---
 

@@ -12,7 +12,7 @@
 
 ### 👋 About Me
 
-📍 **Dallas, TX** — Senior Data Analyst / Analytics Engineer with **nearly 9 years** of experience delivering enterprise BI, analytics engineering, data modeling, and increasingly hands-on cloud **data engineering** across healthcare, insurance, and consulting. Currently delivering analytics for **Cigna Healthcare** (Contract role).
+📍 **Dallas, TX** — Senior Data Analyst / Analytics Engineer with **nearly 10 years** of experience delivering enterprise BI, analytics engineering, data modeling, and increasingly hands-on cloud **data engineering** across healthcare, insurance, and consulting. Currently delivering analytics for **Cigna Healthcare** (Contract role).
 
 - 🔭 Building **Databricks Medallion pipelines** (PySpark + Auto Loader + Delta Lake) and deepening my AWS cloud skills
 - ⚡ Self-driven transition in progress: **Data Analyst → Data Engineer**
@@ -29,6 +29,7 @@
 | **Cigna Healthcare** · 2022–2026 | Data Analyst / Analytics Engineer | Architected Databricks **Bronze→Silver→Gold** pipelines (PySpark, Delta Lake, Auto Loader); cut a legacy Tableau dashboard from **~6 min → 10 s**; ran a **zero-downtime** MySQL migration with **AWS DMS + CDC** |
 | **McKinsey & Company** (Nityo Infotech) · 2019–2022 | Data Analyst / Tableau Consultant | Power BI semantic modeling (Power Query + DAX) & embedded analytics; **~50%** faster queries; RLS-secured executive dashboards on **Athena + Snowflake** |
 | **New York Life** (SRK Systems) · 2017–2019 | Tableau Consultant | Migrated legacy BI → Tableau with validated cutovers; **~60%** faster dashboards via query + data-model tuning |
+| CTE Global Solutions (India) · Jan 2015– Nov 2015 | Junior Analyst | wrote SQL queries to extract, join, and summarize data for recurring operational and management reports |
 
 ---
 

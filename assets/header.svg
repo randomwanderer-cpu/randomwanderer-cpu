@@ -1,5 +1,4 @@
-
-      <svg
+<svg
         width="854"
         height="200"
         xmlns="http://www.w3.org/2000/svg"
@@ -44,6 +43,6 @@
         </path>
       </g>
          <text text-anchor="middle" dominant-baseline="middle" x="50%" y="38%" class="text" style="fill:#ffffff;" stroke="#none" stroke-width="1" >Jyothi Prasad Pechetti</text>
-        <text text-anchor="middle" dominant-baseline="middle" x="50%" y="58%" class="desc" style="fill:#ffffff;">Senior Data Analyst | BI & Data Engineering</text>
+        <text text-anchor="middle" dominant-baseline="middle" x="50%" y="58%" class="desc" style="fill:#ffffff;">Senior Data Analyst | BI &amp; Data Engineering</text>
       </svg>
     

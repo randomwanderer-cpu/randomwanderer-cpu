@@ -37,6 +37,7 @@
 
 | Project | What it is | Stack |
 | --- | --- | --- |
+| **[Service Pulse: NYC 311 + AI Copilot](https://github.com/randomwanderer-cpu/nyc-311-ai-dashboard)** | **3.9M NYC 311 requests** analysed in a Tableau dashboard **generated from code**, embedded in a data-story page with a **local-LLM copilot that drives the dashboard** (filters, page switches, grounded answers). | `Tableau` · `Embedding API` · `Node.js` · `Ollama / Llama 3.1` · `Tool calling` |
 | **[PDF Invoice Extractor](https://github.com/randomwanderer-cpu/pdf-invoice-extractor)** | A fully **local-LLM** app that turns messy PDF invoices into clean, validated structured JSON — no cloud, no API keys. | `Python` · `Ollama / Llama 3.1` · `Pydantic` · `Streamlit` · `Docker` |
 | **[Chat with your PDFs (RAG)](https://github.com/randomwanderer-cpu/pdf-rag-chat)** | A fully **local RAG** system — ask questions about your PDFs and get answers with **source citations**. Built from scratch, no LangChain. | `Python` · `Ollama` · `ChromaDB` · `Streamlit` · `Docker` |
 | **[AI-Built Power BI Dashboard](https://github.com/randomwanderer-cpu/ai-built-powerbi-dashboard)** | End-to-end Power BI report — a **TMDL star-schema** semantic model + 4-page **PBIR** executive report, built with Fabric authoring tooling. | `Power BI` · `TMDL` · `DAX` · `Semantic Modeling` |

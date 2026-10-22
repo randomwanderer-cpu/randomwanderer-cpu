@@ -12,7 +12,7 @@
 
 ### 👋 About Me
 
-📍 **Dallas, TX** — Senior Data Analyst / Analytics Engineer with **nearly 10 years** of experience delivering enterprise BI, analytics engineering, data modeling, and increasingly hands-on cloud **data engineering** across healthcare, insurance, and consulting. Most recently delivered analytics and data engineering for **Cigna Healthcare** (Contract role, 2022–2026).
+📍 Senior Data Analyst / Analytics Engineer with **nearly 10 years** of experience delivering enterprise BI, analytics engineering, data modeling, and increasingly hands-on cloud **data engineering** across healthcare, insurance, and consulting. Most recently delivered analytics and data engineering for **Cigna Healthcare** (Contract role, 2022–2026).
 
 - 🔭 Building **Databricks Medallion pipelines** (PySpark + Auto Loader + Delta Lake) and deepening my AWS cloud skills
 - ⚡ Self-driven transition in progress: **Data Analyst → Data Engineer**

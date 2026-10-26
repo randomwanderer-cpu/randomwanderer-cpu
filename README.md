@@ -28,7 +28,7 @@
 
 | Client (via) | Role | Signature impact |
 | --- | --- | --- |
-| **Cigna Healthcare** · 2022–2026 | Data Analyst / Data Engineer | Led a **100+ dashboard Looker → Tableau migration** (Python tool auto-converted **70–80%** of LookML; **60%** better query efficiency); architected Databricks **Bronze→Silver→Gold** pipelines (PySpark, Delta Lake, Auto Loader); cut a legacy Tableau dashboard from **~6 min → 10 s**; ran a **zero-downtime** MySQL migration with **AWS DMS + CDC** |
+| **Cigna Healthcare** · 2022–Present | Data Analyst / Data Engineer | Led a **100+ dashboard Looker → Tableau migration** (Python tool auto-converted **70–80%** of LookML; **60%** better query efficiency); architected Databricks **Bronze→Silver→Gold** pipelines (PySpark, Delta Lake, Auto Loader); cut a legacy Tableau dashboard from **~6 min → 10 s**; ran a **zero-downtime** MySQL migration with **AWS DMS + CDC** |
 | **McKinsey & Company** (Nityo Infotech) · 2019–2022 | Data Analyst / BI Consultant | Power BI semantic modeling (Power Query + DAX) and dashboards **embedded in client-facing apps**; **~50%** faster queries; RLS-secured executive dashboards on **Athena + Snowflake**; Tableau Server admin and Alteryx data prep |
 | **New York Life** (SRK Systems) · 2017–2019 | Tableau Consultant | Migrated legacy BI → Tableau with validated cutovers; **~60%** faster dashboards via query + data-model tuning |
 | CTE Global Solutions (India) · 2015 | Junior Analyst | SQL extracts and recurring operational reports, with source-to-report reconciliation before delivery |
